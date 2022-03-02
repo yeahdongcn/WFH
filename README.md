@@ -1,6 +1,7 @@
 # WFH
 <p align="center">
     <img alt="World peace" src="https://img.shields.io/badge/world-peace-brightgreen" />
+    <img alt="With love" src="https://img.shields.io/badge/with-love-red?logo=love" />
     <a href="https://github.com/yeahdongcn/WFH/graphs/contributors" alt="Contributors">
         <img src="https://img.shields.io/github/contributors/yeahdongcn/WFH" /></a>
     <a href="#backers" alt="Backers on Open Collective">
