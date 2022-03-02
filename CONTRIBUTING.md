@@ -1,7 +1,8 @@
 # How to Contribute
 
-Want to hack on the WFH? Awesome!
+Want to hack on the WFH? Awesome!</br>
 We only require you to sign your work, the below section describes this!
+
 ## <a name="signing"></a>Signing your work
 
 The sign-off is a simple line at the end of the explanation for the patch. Your
