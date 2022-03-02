@@ -23,7 +23,8 @@
 
 * GitLab (极狐) - 中国 
 * Google - 北京
-* VMware - 北京
+* [Singularity Data (奇点无限) - 中国](https://app.mokahr.com/social-recruitment/singularity-data/45889#/)
+* [VMware - 北京](https://careers.vmware.com/main/)
 
 ## Contributions
 [Read the document on contributions](https://github.com/yeahdongcn/WFH/blob/main/CONTRIBUTING.md). You can contribute by opening a [pull request](https://help.github.com/en/articles/about-pull-requests).
