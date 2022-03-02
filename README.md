@@ -8,6 +8,7 @@
     <a href="#sponsors" alt="Sponsors on Open Collective">
         <img src="https://img.shields.io/opencollective/sponsors/wfh" /></a>
     <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/yeahdongcn/wfh/main">
+    <img alt="GitHub" src="https://img.shields.io/github/license/yeahdongcn/wfh" />
 </p>
 能够远程办公（work from home）的公司名单
 
