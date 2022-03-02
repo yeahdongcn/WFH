@@ -24,6 +24,7 @@
 * [GitLab (极狐) - 中国](https://boards.greenhouse.io/gitlab)
 * [Google - 北京](https://careers.google.com/)
 * [Singularity Data (奇点无限) - 中国](https://app.mokahr.com/social-recruitment/singularity-data/45889#/)
+  + 有年龄限制
 * [VMware - 北京](https://careers.vmware.com/main/)
 
 ## Contributions
