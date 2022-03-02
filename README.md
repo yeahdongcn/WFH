@@ -15,6 +15,6 @@
 
 *Please keep the company names sorted alphabetically.*
 
-* Gitlab (极狐) - 中国 
+* GitLab (极狐) - 中国 
 * Google - 北京
 * VMware - 北京
