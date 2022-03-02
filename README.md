@@ -24,3 +24,9 @@
 * GitLab (极狐) - 中国 
 * Google - 北京
 * VMware - 北京
+
+## Contributions
+[Read the document on contributions](https://github.com/yeahdongcn/WFH/blob/main/CONTRIBUTING.md). You can contribute by opening a [pull request](https://help.github.com/en/articles/about-pull-requests).
+
+## Support and Getting Help
+Please open [an issue on the GitHub project](https://github.com/yeahdongcn/WFH/issues/new) for any questions. Your feedback is appreciated.
