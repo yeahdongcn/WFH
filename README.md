@@ -10,7 +10,12 @@
     <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/yeahdongcn/wfh/main">
     <img alt="GitHub" src="https://img.shields.io/github/license/yeahdongcn/wfh" />
 </p>
-能够远程办公（work from home）的公司名单
+能够远程办公 (work from home)的公司名单</br>
+
+## 如何定义`能够远程办公 (work from home)`? 
+
+* 公司有明确的制度
+* 员工能够有主动选择的权利
 
 ## WFH 的公司名单
 
