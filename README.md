@@ -7,3 +7,4 @@
 
 * Google - 北京
 * VMware - 北京
+* 极狐（Gitlab）- 中国 
