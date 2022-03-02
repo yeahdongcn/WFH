@@ -3,4 +3,7 @@
 
 ## WFH 的公司名单
 
+*Please keep the company names sorted alphabetically.*
+
+* Google - 北京
 * VMware - 北京
